@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "name": "Ibrahim Mulla",
+        "visit": "1000",
+        "specialty":"Cardiologist",
+        "qualification":"MBBS,PHD",
+        "description": "Doctors, also known as physicians, are licensed health professionals who maintain and restore human health through the practice of medicine.",
+        "img": "https://www.nutritionfactors.com/blog/wp-content/uploads/2019/12/Male-doctor-smiling-portrait-close-up-Med-Res-72991363.jpg"
+    },
+   
+    {
+        "id": 2,
+        "name": "Nelson Bappy",
+        "visit": "1500",
+        "specialty":"Medicine",
+        "qualification":"MBBS,FCPS,SCPS",
+        "description": "Doctors, also known as physicians, are licensed health professionals who maintain and restore human health through the practice of medicine.",
+        "img": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGRvY3RvcnxlbnwwfDB8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+   
+    {
+        "id": 3,
+        "name": "Naiyek Bijoy",
+        "visit": "1500",
+        "specialty":"Gastroenterologists",
+        "qualification":"MBBS,FCS",
+        "description": "Doctors, also known as physicians, are licensed health professionals who maintain and restore human health through the practice of medicine.",
+        "img": "https://images.squarespace-cdn.com/content/v1/5269fbd3e4b0eb2b76ccc1db/1551935459883-525ZZICC46IFFKYSY88B/MD%2Bvs%2BDO%2BAdmissions%2BShemmassian%2BAcademic%2BConsulting.jpg?format=1500w"
+    },
+   
+    {
+        "id": 4,
+        "name": "Shohas Ismail",
+        "visit": "1300",
+        "specialty":"Nephrologists",
+        "qualification":"MBBS,FCS,MD",
+        "description": "Doctors, also known as physicians, are licensed health professionals who maintain and restore human health through the practice of medicine.",
+        "img": "https://media.istockphoto.com/photos/portrait-of-mature-male-doctor-wearing-white-coat-standing-in-picture-id1203995945?k=20&m=1203995945&s=612x612&w=0&h=g0_ioNezBqP0NXrR_36-A5NDHIR0nLabFFrAQVk4PhA="
+    },
+   
+    {
+        "id": 5,
+        "name": "Dipu Khan",
+        "visit": "2000",
+        "specialty":"Neuro Surgery",
+        "qualification":"MBBS,FCS,MD",
+        "description": "Doctors, also known as physicians, are licensed health professionals who maintain and restore human health through the practice of medicine.",
+        "img": "https://t4.ftcdn.net/jpg/01/36/18/77/360_F_136187711_qeBMOwkPdTg1dCN8e5TR1AmduXDz60Xn.jpg"
+    },
+   
+    {
+        "id": 6,
+        "name": "Monu mulla",
+        "visit": "1700",
+        "specialty":"Burn & Plastic",
+        "qualification":"MBBS,PFC",
+        "description": "Doctors, also known as physicians, are licensed health professionals who maintain and restore human health through the practice of medicine.",
+        "img": "https://images.unsplash.com/photo-1537368910025-700350fe46c7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80"
+    }
+   
+  
+]
