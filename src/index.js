@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-
+// This is index hs file
 ReactDOM.render(
   <React.StrictMode>
     <App />
